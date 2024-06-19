@@ -5,8 +5,10 @@ This project uses Gradient Boosting (GB) and Random Forest (RF) models for predi
 
 ## Quarter-Final, Semi-Final, Final-Prediction
 
-![QuarterFinal_Final](QF_F_England.png)
-![QuarterFinal_Final](QF_F_pred.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="QF_F_England.png" alt="Quarter-Final Prediction" width="400"/>
+    <img src="QF_F_pred.png" alt="Final Prediction" width="400"/>
+</div>
 
 ## Top 8 Teams by Wins
 ![Top 8 Teams](Top_8_Teams_Wins.png)
@@ -16,3 +18,5 @@ The image above shows the top 8 teams in terms of wins based on the collected ma
 ## Disclaimer
 Football is known for its unpredictability. This prediction model is developed purely for entertainment purposes and should not be used for betting or any serious decision-making.
 
+https://buymeacoffee.com/szbjehan
+--Syed Ziaul Bin Bashar 
