@@ -5,11 +5,11 @@ This project uses Gradient Boosting (GB) and Random Forest (RF) models for predi
 
 ## Quarter-Final, Semi-Final, Final-Prediction
 
-![QuarterFinal_Final](top_teams_image.jpg)
-![QuarterFinal_Final](top_teams_image.jpg)
+![QuarterFinal_Final](QF_F_England.png)
+![QuarterFinal_Final](QF_F_pred.png)
 
 ## Top 8 Teams by Wins
-![Top 8 Teams](top_teams_image.jpg)
+![Top 8 Teams](Top_8_Teams_Wins.png)
 
 The image above shows the top 8 teams in terms of wins based on the collected match data.
 
